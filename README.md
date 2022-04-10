@@ -15,3 +15,18 @@ Parts List
 - [Telemetry Radio](https://irlock.com/collections/telemetry/products/rfd900-telemetry-bundle)
 - [FPV Camera](https://www.racedayquads.com/products/caddx-ratel-2-1200tvl-16-9-4-3-ntsc-pal-micro-fpv-camera?currency=USD&variant=32252553461873&gclid=CjwKCAjwopWSBhB6EiwAjxmqDcY6xkVY6ziV0bNjD42cZLxOCNjk_HoEvTXMwiVjjCei-xruu7opWBoC1v0QAvD_BwE)
 - [Video Transmitter](https://www.racedayquads.com/products/rdq-mach-3-video-transmitter-25-1000mw-5-8ghz-vtx-mmcx?currency=USD&variant=17876578009201&gclid=CjwKCAjwopWSBhB6EiwAjxmqDUHuWwQMmS51TPkJjZPIS79uBSXJd4FV2JvyHOB76OZjNJpm98K-6hoCBnAQAvD_BwE)
+
+## Tasks
+- [ ] Easier startup procedure - add delay modules to turn things on at correct times
+- [ ] get RTK fixed working consistently
+  - [ ] Better coax?
+  - [ ] tripod adapter
+- [ ] 3d printed casings
+  - [ ] RTK gps ground station
+  - [ ] RFD900 ground station
+- [ ] telemetry radio better mount in drone
+- [ ] VTX doesn't fit properly in drone housing
+- [ ] RTK GPS rigid mount
+- [ ] database of calibration parameters for each drone
+- [ ] finish building drones
+- [ ] break down old prototypes to recycle components
